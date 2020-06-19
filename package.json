@@ -16,9 +16,10 @@
   "license": "ISC",
   "dependencies": {
     "cardsJS": "^1.1.1",
-    "express": "^4.16.4",
-    "nodemon": "^1.18.9",
-    "socket.io": "^2.2.0"
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {}
 }
